@@ -19,6 +19,3 @@ Hosted a static website using Amazon S3. Enabled public access and fixed 403 err
 
 ## Screenshot
 ![Website Live](./screenshot.png)
-
-## Time Taken
-~45 minutes
