@@ -6,7 +6,7 @@ This folder contains projects focused on building, configuring, and securing Vir
 
 ## 🔸 Projects
 
-- [Basic VPC Setup with Subnet, IGW, and ACLs](./basic-vpc-networking/README.md)  
+- [Basic VPC Setup with Subnet, IGW, and ACLs](./fundamental-vpc-build/README.md)  
   Create a custom VPC with public subnet, internet gateway, route table, security group, and custom network ACL.
 
 - *More projects to be added here as you upload...*
