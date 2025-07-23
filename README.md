@@ -33,4 +33,4 @@ This repository contains my hands-on AWS projects done as part of Nextwork chall
 ---
 
 ## 📬 Contact
-[LinkedIn](www.linkedin.com/in/aditya-gopal-18559b298) • [GitHub](https://github.com/Aditya-AG7)
+[LinkedIn](https://www.linkedin.com/in/aditya-gopal-18559b298) • [GitHub](https://github.com/Aditya-AG7)
