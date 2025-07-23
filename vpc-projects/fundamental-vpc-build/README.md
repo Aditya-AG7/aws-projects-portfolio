@@ -62,9 +62,14 @@ This project series demonstrates how I progressively built a complete VPC setup 
 
 ## 📸 Screenshots
 
-### VPC Setup
-![VPC](./screenshots/vpc-setup.png)
+### Custom VPC Creation
+![VPC Setup](./screenshots/vpc-setup.png)
 
-### Subnet Configuration
-![Subnet](./screenshots/subnet-config.png)
+### Public Subnet with Auto-Assign IP
+![Subnet Config](./screenshots/subnet-config.png)
 
+### Route Table with IGW Route
+![Route Table](./screenshots/route-table.png)
+
+### Security Group Inbound Rules
+![Security Group](./screenshots/security-group.png)
