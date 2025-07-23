@@ -22,12 +22,14 @@ Enabled VPC Flow Logs and analyzed traffic patterns using CloudWatch Logs and Lo
 
 ## 📸 Screenshots
 
-### S3 Bucket for Log Storage
+### S3 Bucket for Log Delivery
 ![S3 Buckets](./screenshots/s3-buckets-list.png)
 
-### Log File Structure in S3
-![S3 Object List](./screenshots/s3-object-list.png)
+### Flow Log Files in S3
+![S3 Objects](./screenshots/s3-object-list.png)
 
-### VPC Endpoint Policy Used
+### VPC Endpoint Policy
 ![Endpoint Policy](./screenshots/endpoint-policy.png)
 
+### Flow Logs Console (Blocked Panel)
+![Flow Log Status](./screenshots/blocked-panel.png)
