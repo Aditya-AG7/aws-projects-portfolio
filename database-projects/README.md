@@ -1,16 +1,21 @@
 # 🗃️ AWS Database Projects
 
-This folder includes hands-on projects using AWS database services like RDS and DynamoDB.
+This folder contains projects focused on relational and NoSQL databases using Amazon RDS, Aurora, and DynamoDB.
 
 ---
 
 ## 🔸 Projects
 
-- *Coming soon as you upload your DB files*
+- [Visualize RDS with QuickSight](./rds-mysql-visualization/README.md)
+- [Set up Aurora Cluster](./aurora-setup/README.md)
+- [Deploy Web App using Aurora](./webapp-with-aurora/README.md)
+- [Load Data into DynamoDB](./dynamodb-load-data/README.md)
+- [Query & Transact in DynamoDB](./dynamodb-query-transaction/README.md)
 
 ---
 
-## 🧠 Skills Demonstrated
-- Creating RDS & DynamoDB instances
-- Connecting apps to cloud databases
-- Managing data availability & scaling
+## 🛠️ Skills Demonstrated
+- RDS & Aurora setup and security
+- Connecting EC2-based web apps to cloud DBs
+- DynamoDB CLI operations and table design
+- Querying, projections, and atomic updates
