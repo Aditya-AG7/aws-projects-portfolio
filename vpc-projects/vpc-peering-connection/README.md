@@ -24,8 +24,8 @@ Established a VPC Peering connection between two VPCs to allow private traffic b
 ### VPC Peering Connection Setup
 ![Peering Config](./screenshots/peering-config.png)
 
-### Updated Route Tables
+### Route Table Updated for Peering
 ![Route Tables](./screenshots/route-tables.png)
 
-### Ping Test Between EC2 Instances
+### EC2 Ping Between Peered VPCs
 ![Ping Test](./screenshots/ec2-ping.png)
