@@ -30,5 +30,5 @@ Created an RDS MySQL database, inserted sample data via MySQL Workbench, and vis
 ![Dashboard](./screenshots/qs-dashboard.png)
 
 ### Security Group Rules
-![SG Rules](./sceenshots/sg-rules.png)
+![SG Rules](./screenshots/sg-rules.png)
 
