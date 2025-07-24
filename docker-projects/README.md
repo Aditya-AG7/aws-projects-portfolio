@@ -1,16 +1,18 @@
 # 🐳 AWS Docker Projects
 
-This folder holds containerization and deployment projects using Docker on AWS.
+This folder contains Docker-based projects focused on containerization, deployment, and local testing.
 
 ---
 
 ## 🔸 Projects
 
-- *Coming soon once Docker project is uploaded*
+- [Static Website with Nginx](./static-website-container/README.md)  
+  Built and ran a Docker container that serves a static website using Nginx.
 
 ---
 
-## 🧠 Skills Demonstrated
-- Building Docker images
-- Running containers on AWS (e.g., ECS, EC2)
-- Container lifecycle and portability
+## 🛠️ Skills Demonstrated
+- Dockerfile creation and customization
+- Image build, tagging, and container lifecycle
+- Port mapping and localhost testing
+- Serving static content in isolated environments
